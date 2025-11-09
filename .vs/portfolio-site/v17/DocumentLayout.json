@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\mjcle\\Documents\\portfolio-site\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mjcle\\Documents\\portfolio-site\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mjcle\\Documents\\portfolio-site\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mjcle\\Documents\\portfolio-site\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mjcle\\Documents\\portfolio-site\\pactb.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pactb.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mjcle\\Documents\\portfolio-site\\portfolio.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -17,6 +21,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mjcle\\Documents\\portfolio-site\\stu_dis.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:stu_dis.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mjcle\\Documents\\portfolio-site\\scc_map.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:scc_map.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mjcle\\Documents\\portfolio-site\\baka.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:baka.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +38,91 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\mjcle\\Documents\\portfolio-site\\index.html",
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Users\\mjcle\\Documents\\portfolio-site\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-11-05T00:32:27.275Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "stu_dis.html",
-              "DocumentMoniker": "C:\\Users\\mjcle\\Documents\\portfolio-site\\stu_dis.html",
-              "RelativeDocumentMoniker": "stu_dis.html",
-              "ToolTip": "C:\\Users\\mjcle\\Documents\\portfolio-site\\stu_dis.html",
-              "RelativeToolTip": "stu_dis.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-10-30T16:47:40.835Z",
+              "WhenOpened": "2025-11-09T21:23:29.242Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "pactb.html",
+              "DocumentMoniker": "C:\\Users\\mjcle\\Documents\\portfolio-site\\pactb.html",
+              "RelativeDocumentMoniker": "pactb.html",
+              "ToolTip": "C:\\Users\\mjcle\\Documents\\portfolio-site\\pactb.html",
+              "RelativeToolTip": "pactb.html",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-09T20:50:35.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "baka.html",
+              "DocumentMoniker": "C:\\Users\\mjcle\\Documents\\portfolio-site\\baka.html",
+              "RelativeDocumentMoniker": "baka.html",
+              "ToolTip": "C:\\Users\\mjcle\\Documents\\portfolio-site\\baka.html",
+              "RelativeToolTip": "baka.html",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwCUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-09T20:44:08.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "portfolio.html",
               "DocumentMoniker": "C:\\Users\\mjcle\\Documents\\portfolio-site\\portfolio.html",
               "RelativeDocumentMoniker": "portfolio.html",
               "ToolTip": "C:\\Users\\mjcle\\Documents\\portfolio-site\\portfolio.html",
               "RelativeToolTip": "portfolio.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC0AAABuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-10-22T22:54:02.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-09T20:43:48.194Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "stu_dis.html",
+              "DocumentMoniker": "C:\\Users\\mjcle\\Documents\\portfolio-site\\stu_dis.html",
+              "RelativeDocumentMoniker": "stu_dis.html",
+              "ToolTip": "C:\\Users\\mjcle\\Documents\\portfolio-site\\stu_dis.html",
+              "RelativeToolTip": "stu_dis.html",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwCUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-09T20:43:30.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "scc_map.html",
+              "DocumentMoniker": "C:\\Users\\mjcle\\Documents\\portfolio-site\\scc_map.html",
+              "RelativeDocumentMoniker": "scc_map.html",
+              "ToolTip": "C:\\Users\\mjcle\\Documents\\portfolio-site\\scc_map.html",
+              "RelativeToolTip": "scc_map.html",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-09T20:12:42.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "style.css",
               "DocumentMoniker": "C:\\Users\\mjcle\\Documents\\portfolio-site\\style.css",
               "RelativeDocumentMoniker": "style.css",
               "ToolTip": "C:\\Users\\mjcle\\Documents\\portfolio-site\\style.css",
               "RelativeToolTip": "style.css",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-10-21T22:57:09.338Z",
               "EditorCaption": ""

@@ -38,17 +38,17 @@ body {
     margin: 0 10px;
 }
 
+h1 {
+    text-align: center;
+}
+
 a {
     text-decoration: none;
     color: #ffffff;
 }
 
 .landing_page {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    min-height: 100vh;
+    margin-top: 250px;
 }
 
 .project_page {
@@ -92,7 +92,7 @@ a {
 
 .projectrows {
     display: grid;
-    grid-template-columns: repeat(6, 1fr);
+    grid-template-columns: repeat(12, 1fr);
     column-gap: 25px;
     align-items: center;
     -webkit-filter: grayscale(100%);
@@ -108,14 +108,14 @@ a {
 }
 
 .projectrows_image {
-    grid-column-start: 2;
-    grid-column-end: 4;
+    grid-column-start: 4;
+    grid-column-end: 6;
     max-width: 100%;
 }
 
 .projectrows_title {
-    grid-column-start: 4;
-    grid-column-end: 6;
+    grid-column-start: 6;
+    grid-column-end: 10;
 }
 
 .project_info_text {
