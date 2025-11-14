@@ -47,17 +47,9 @@ a {
     color: #ffffff;
 }
 
-.landing_page {
+.landing_page_text {
     margin-top: 10%;
     text-align: center;
-}
-
-.back_img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: -100;
-    object-fit: cover;
 }
 
 .project_page {
@@ -129,4 +121,34 @@ a {
 
 .project_info_text {
     text-align: left;
+}
+
+.landing_page {
+    height: 100vh;
+    background-image: url(philadelphia.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.lp_name {
+    font-size: 32px;
+}
+
+.lp_text {
+    font-size: 24px;
+    text-wrap: wrap;
+}
+
+.about_me {
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    column-gap: 25px;
+}
+
+.about_me p {
+    grid-column-start: 2;
+    grid-column-end: 5;
+    font-size: 18px;
 }
