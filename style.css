@@ -61,7 +61,7 @@ a {
 
 .project_info {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(10, 1fr);
     column-gap: 25px;
     padding-bottom: 100px;
 }
@@ -70,7 +70,7 @@ a {
     display: flex;
     flex-direction: column;
     grid-column-start: 2;
-    grid-column-end: 2;
+    grid-column-end: 7;
 }
 
 .img_cont img {
@@ -81,8 +81,20 @@ a {
 .project_info_text {
     display: flex;
     flex-direction: column;
-    grid-column-start: 3;
-    grid-column-end: 3;
+    grid-column-start: 7;
+    grid-column-end: 10;
+    text-align: left;
+}
+
+.gif_time {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.gif_time img {
+    max-height: 180px;
 }
 
 .project_container {
@@ -119,13 +131,9 @@ a {
     grid-column-end: 10;
 }
 
-.project_info_text {
-    text-align: left;
-}
-
 .landing_page {
     height: 100vh;
-    background-image: url(philadelphia.png);
+    background-image: url(philadelphia_v2.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
