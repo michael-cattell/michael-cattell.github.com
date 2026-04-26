@@ -101,6 +101,7 @@ a {
     display: flex;
     flex-direction: column;
     align-items: center;
+    text-wrap: wrap;
 }
 
 .projectrows {
@@ -132,8 +133,8 @@ a {
 }
 
 .linkrows {
-    grid-column-start: 5;
-    grid-column-end: 9;
+    grid-column-start: 6;
+    grid-column-end: 8;
 }
 
 .landing_page {
@@ -168,4 +169,7 @@ a {
 .linktext {
     font-size: 20px;
     text-decoration: underline;
+    text-wrap: wrap;
+    grid-column-start: 6;
+    grid-column-end: 8;
 }
